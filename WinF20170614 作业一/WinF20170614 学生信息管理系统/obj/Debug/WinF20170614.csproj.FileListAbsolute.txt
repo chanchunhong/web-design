@@ -1,0 +1,20 @@
+F:\C#\WinF20170614\WinF20170614\bin\Debug\WinF20170614.exe.config
+F:\C#\WinF20170614\WinF20170614\bin\Debug\WinF20170614.exe
+F:\C#\WinF20170614\WinF20170614\bin\Debug\WinF20170614.pdb
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.csprojResolveAssemblyReference.cache
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.Form1.resources
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.Properties.Resources.resources
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.csproj.GenerateResource.Cache
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.exe
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.pdb
+F:\C#\WinF20170614\WinF20170614\obj\Debug\WinF20170614.frmadd.resources
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\bin\Debug\WinF20170614.exe.config
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.exe
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.pdb
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\bin\Debug\WinF20170614.exe
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\bin\Debug\WinF20170614.pdb
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.csprojResolveAssemblyReference.cache
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.Form1.resources
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.frmadd.resources
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.Properties.Resources.resources
+F:\C#\WinF20170614 作业一\WinF20170614 学生信息管理系统\obj\Debug\WinF20170614.csproj.GenerateResource.Cache
